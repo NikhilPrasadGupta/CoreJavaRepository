@@ -1,9 +1,7 @@
-/* Name: Nikhil Prasad Gupta
- * Description: Sum of thg cubes of the digits
- * Date: 13/03/2021
+/*Name : Nikhil Prasad Gupta
+ * Description: Program for sum of cube of number..
+ * Date: 19/03/2021
  */
-
-
 
 
 import java.util.Scanner;

@@ -1,8 +1,7 @@
-/* Name: Nikhil Prasad Gupta
- * Description: Demo of traffic light
- * Date: 13/03/2021
+/*Name : Nikhil Prasad Gupta
+ * Description: Program for traffic light demo.
+ * Date: 19/03/2021
  */
-
 
 
 

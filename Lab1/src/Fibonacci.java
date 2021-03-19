@@ -1,8 +1,7 @@
-/* Name: Nikhil Prasad Gupta
- * Description: Fibonacci series upto nth number
- * Date: 13/03/2021
+/*Name : Nikhil Prasad Gupta
+ * Description: Program for fibonacci series.
+ * Date: 19/03/2021
  */
-
 
 
 
